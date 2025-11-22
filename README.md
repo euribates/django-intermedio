@@ -14,8 +14,8 @@ Proyecto a realizar durante el curso: **spidercheck**
 
 Temas que se van a trabajar:
 
-- *Authentication*
-- *Context Processors**
+- Identificación y autización de usuarios (_Authentication_)
+- Procesadores de contexto (_Context Processors_)
 - *Custom tags and filters*
 - *Databases*
 - *Deployment on production*
