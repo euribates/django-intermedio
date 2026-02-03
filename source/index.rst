@@ -12,6 +12,7 @@ Django 102: Django Intermedio documentation
 
    path-converters
    databases
+   checks
    objects-managers
    custom-tags-and-filters
    logging
